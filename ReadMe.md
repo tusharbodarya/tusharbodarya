@@ -98,12 +98,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/tusharbodarya/tusharbodarya/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif"  />
 
 ###
