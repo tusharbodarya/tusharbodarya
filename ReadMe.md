@@ -100,6 +100,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/tusharbodarya/tusharbodarya/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif"  />
 
 ###
@@ -121,11 +125,5 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tusharbodarya/tusharbodarya/output/snake.svg" alt="Snake animation" />
 
 ###
